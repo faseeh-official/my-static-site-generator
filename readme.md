@@ -1,4 +1,4 @@
-# My Static Site Generator
+# My Static Site Generator - Behind My Website!
 This software generates multiple static websites with a cohesive look and feel, using only the provided content and metadata. You simply supply the text and components to include on each page, with most of the HTML formatting capabilities, and the program produces static sites. It allows you to define common elements, like headers and footers, which are applied consistently across all sites.
 
 This program was developed specifically for my personal website, with certain unique requirements in mind. While it's optimized for that use case, it may still be useful for your own project. Feel free to download and give it a try! You may need to make some adjustments to the source code to better align with your setup. While it's tailored to a specific purpose, it could still be useful.
