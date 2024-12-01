@@ -49,7 +49,7 @@ If you want to edit the styles, go to `assets/styles.css` and modify it as you w
 # Thanks for Everything
 It is your support that keeps me motivated throughout each project’s development journey. Every piece of feedback, suggestion, and encouragement helps me improve and strive to create better results. Thank you for being an invaluable part of this journey. I look forward to achieving even greater things together!
 
-[Visit My Website](https://faseeh-official.github.io/)<br>
+[Visit My Website](https://faseeh-z.github.io/)<br>
 [Feedback](https://forms.office.com/r/jN1SMAmma5)<br>
 [My YouTube Channel](https://youtube.com/@coderapids?si=Pd3PXfRjw141buM_)<br>
 
